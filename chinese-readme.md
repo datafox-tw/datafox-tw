@@ -152,3 +152,11 @@
 
 LLM 不應僅生成看似合理的文本，
 而應成為**嵌入於可負責任系統中的結構化推理引擎**。
+
+### GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats-theta-ochre-67.vercel.app/api?username=datafox-tw&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-stats-theta-ochre-67.vercel.app/api/top-langs/?username=datafox-tw&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117" />
+</div>
+
