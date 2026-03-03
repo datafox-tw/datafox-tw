@@ -150,3 +150,10 @@ Long-term vision:
 LLMs should not merely generate plausible outputs — **they should function as structured reasoning engines embedded in accountable systems.**
 
 ---
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats-theta-ochre-67.vercel.app/api?username=Datafox-tw&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-stats-theta-ochre-67.vercel.app/api/top-langs/?username=Datafox-tw&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117" />
+</div>
