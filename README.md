@@ -15,6 +15,16 @@ Rather than building isolated demos, I focus on:
 * Bridging **financial modeling and symbolic computation**
 * Engineering systems that are modular, reproducible, and deployment-ready
 
+<div align="left">
+  <a href="https://www.linkedin.com/in/koyuchi/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://datafox.tw/">
+    <img src="https://img.shields.io/badge/Website-datafox.tw-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</div>
+
+
 ---
 
 ## Research-Oriented Engineering Projects
