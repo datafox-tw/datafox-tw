@@ -13,7 +13,7 @@
 * 提升 **LLM 的可靠性與評估機制**
 * 連結 **金融建模與符號計算**
 * 建構模組化、可重現、可部署的系統架構
-* 
+
 <div align="left">
   <a href="https://www.linkedin.com/in/koyuchi/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -25,6 +25,8 @@
 
 
 ---
+
+| 如果您願意的話，請先看我四個精選的專案，讓您可以一眼知道我的能力。
 
 ## 研究導向工程專案
 
