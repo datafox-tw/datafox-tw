@@ -27,6 +27,9 @@ Rather than building isolated demos, I focus on:
 
 ---
 
+| If you'd like, please take a look at my four selected projects first, so you can see my capabilities at a glance.
+
+
 ## Research-Oriented Engineering Projects
 
 ### 1️⃣ [Automatic_Generic_Optimizer](https://github.com/datafox-tw/Automatic_Generic_Optimizer)
