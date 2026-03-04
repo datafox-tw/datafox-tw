@@ -13,6 +13,16 @@
 * 提升 **LLM 的可靠性與評估機制**
 * 連結 **金融建模與符號計算**
 * 建構模組化、可重現、可部署的系統架構
+* 
+<div align="left">
+  <a href="https://www.linkedin.com/in/koyuchi/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://datafox.tw/">
+    <img src="https://img.shields.io/badge/Website-datafox.tw-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</div>
+
 
 ---
 
