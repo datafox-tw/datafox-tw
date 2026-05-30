@@ -27,6 +27,8 @@ Rather than building isolated demos, I focus on:
 
 ---
 
+<!--
+
 | If you'd like, please take a look at my four selected projects first, so you can see my capabilities at a glance.
 
 
@@ -115,6 +117,7 @@ Purpose:
 * Show end-to-end engineering capability beyond model development
 * Maintain fluency in production-grade web systems
 
+-->
 ---
 
 ## Core Technical Themes
